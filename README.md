@@ -6,7 +6,7 @@ The model is built using **Logistic Regression** and deployed with **Streamlit**
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** Add your deployed Streamlit URL here
+🔗 **Streamlit App:** https://loanprediction95.streamlit.app/
 
 ## 📌 Features
 
